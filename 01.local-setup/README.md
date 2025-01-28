@@ -83,7 +83,8 @@ Global setting: enabled
 Local setting: enabled
 Effective status: enabled
 Component HMR has been enabled.
-If you encounter application reload issues, you can manually reload the page to bypass HMR and/or disable this feature with the `--no-hmr` command line option.
+If you encounter application reload issues, you can manually reload the page to bypass HMR and/or disable this feature
+with the `--no-hmr` command line option.
 Please consider reporting any issues you encounter here: https://github.com/angular/angular-cli/issues
 
 Browser bundles
