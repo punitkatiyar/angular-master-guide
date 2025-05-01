@@ -1,9 +1,18 @@
 # angular master guide
-Update Your Skills With Master Training Program for full stack developer
 
 
-# How To Setup Angular
 
-## Step 1 [ install Cli ]
+## How To Setup Angular
 
-> npm install -g @angular/cli
+> node -v
+
+> npm -v
+
+> npm i -g @angular/cli
+
+> ng version
+
+> ng new angular-tut
+
+> ng serve
+
