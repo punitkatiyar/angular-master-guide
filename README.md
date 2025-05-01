@@ -1,8 +1,6 @@
 # angular master guide
 
-
-
-## How To Setup Angular
+### How To Setup Angular
 
 > node -v
 
