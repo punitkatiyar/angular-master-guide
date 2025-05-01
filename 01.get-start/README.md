@@ -1,5 +1,24 @@
 # Angular Local Setup For Devemopment 
 
+## Key Concepts:
+
+- Angular CLI commands: ng new, ng serve, ng generate
+- Angular Project Structure
+- Modules (AppModule)
+- Components (@Component)
+
+### Templates and Data Binding
+
+> Interpolation {{ }}
+
+> Property binding [ ]
+
+> Event binding ( )
+
+> Two-way binding [(ngModel)]
+
+
+
 ```
 Microsoft Windows [Version 10.0.22621.4317]
 (c) Microsoft Corporation. All rights reserved.
